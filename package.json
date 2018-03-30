@@ -2,7 +2,7 @@
   "name": "Material_Free",
   "version": "1.0.0",
   "description": "",
-  "main": "index.html",
+
   "scripts": {
   "start": "index.html"
 },
