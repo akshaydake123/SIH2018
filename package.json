@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.html",
+  "scripts": {
+  "start": "index.html"
+}
   "dependencies": {
     "chart.js": "2.6.0",
     "del": "2.2.2",
